@@ -333,7 +333,7 @@ class AllJobs extends Component {
   }
 
   render() {
-    // eslint-disable-next-line no-unused-vars
+    
     const {checkboxInputs, radioInput, searchInput} = this.state
     return (
       <>
